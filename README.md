@@ -1,4 +1,4 @@
-# helloworld
+# PlantUML Editor
 
 ## Project setup
 ```
